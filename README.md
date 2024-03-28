@@ -37,3 +37,8 @@ on the email, receiving:
 <br> <br> 
 
 ![image](https://github.com/blue0x1/Flarum-FoF-Pretty-Mail-Command-Injection/assets/52697989/e2215324-2759-4d77-a672-3313bafc7a2e)
+
+
+## Disclaimer:
+<br>
+This exploit is provided for educational purposes only. It is intended to promote awareness and improve the security of Flarum and its extensions. Use of this exploit for malicious purposes is strictly prohibited. Always ensure you have proper authorization before testing any system for vulnerabilities.
